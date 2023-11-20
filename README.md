@@ -1,17 +1,41 @@
-# 💫 About me:
-🧑🏻‍💻 I’m currently learning front-end <br>
-📌 Directly from Brazil
+<h2 align="center">Hi. My name is Guilherme and I'm a developer from Brazil.</h2>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gpaulichen)
+###
 
-# 💻 Tech stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pol4Q&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pol4Q&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-# 📊 GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=Pol4Q&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pol4Q&theme=dark&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pol4Q&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Pol4Q&icon=5&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://pbs.twimg.com/profile_images/1707346112451895296/prLDXNth_400x400.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gpaulichen/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Pol4quinhome" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
