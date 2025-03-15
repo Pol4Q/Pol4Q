@@ -24,12 +24,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://pbs.twimg.com/profile_images/1707346112451895296/prLDXNth_400x400.jpg"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/gpaulichen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
   </a>
